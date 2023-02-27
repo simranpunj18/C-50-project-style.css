@@ -1,0 +1,35 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+
+    background-color: blue;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: pink;
+}
+body {
+    background-color: green;
+  }
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+  }
+  
+  
+  
+  .grid img {
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid aqua;
+    border-radius: 50px;
+  }
+  .origami {
+    border-radius: 20px;
+    background-color: peru;
+    margin: 20px;
+  
+    width: 310px;
+    font-family: fantasy;
+  }
